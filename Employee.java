@@ -19,7 +19,7 @@ public Employee(String name, double payRate) {
 public String getName() {
 	return name;
 }
-public int GetEmployeeID() {
+public int getEmployeeID() {
 	return EMPLOYEE_ID;
 }
 public double getPayRate() {
